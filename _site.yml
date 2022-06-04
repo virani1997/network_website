@@ -1,0 +1,9 @@
+name: "Blockchain Research Papers Network Analysis"
+navbar:
+  title: "Blockchain"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+

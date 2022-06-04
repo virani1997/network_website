@@ -1,0 +1,9 @@
+---
+title: "R as a tool for Network Analysis"
+---
+
+Even though R was not built for the purpose of network analysis, but the availability of extensive libraries have made R a very powerful go to platform for network analysis. The two libraries that we will be using are **visNetwork** and **igraph**. The first library will allow us to create interactive network graph, while the second will allow us to run some network analysis and answer some questions.
+
+# About the Author
+
+**Salman Virani**, the author of this work, is a student of MSc Information Resource Management at Nanjing University. Follow on **[Twitter](https://twitter.com/SalmanVirani6)** and **[GitHub](https://github.com/virani1997)**
