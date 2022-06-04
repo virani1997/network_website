@@ -1,5 +1,0 @@
----
-title: "About This Website"
----
-
-A new docs folder was created in the local repository where the _suite files were shifted. 
